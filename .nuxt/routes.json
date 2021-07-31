@@ -1,0 +1,247 @@
+[
+  {
+    "name": "404",
+    "path": "/404",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\404.vue",
+    "chunkName": "pages/404",
+    "_name": "_93871636"
+  },
+  {
+    "name": "about-us",
+    "path": "/about-us",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\about-us.vue",
+    "chunkName": "pages/about-us",
+    "_name": "_d7971efe"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_784f8e1d"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\cart\\\\index.vue",
+    "chunkName": "pages/cart/index",
+    "_name": "_4d31c7df"
+  },
+  {
+    "name": "coming-soon",
+    "path": "/coming-soon",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\coming-soon.vue",
+    "chunkName": "pages/coming-soon",
+    "_name": "_3f21f3f4"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\contact-us\\\\index.vue",
+    "chunkName": "pages/contact-us/index",
+    "_name": "_b6731a18"
+  },
+  {
+    "name": "faq",
+    "path": "/faq",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "_name": "_622d17c3"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_06502956"
+  },
+  {
+    "name": "my-account",
+    "path": "/my-account",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\my-account\\\\index.vue",
+    "chunkName": "pages/my-account/index",
+    "_name": "_4883a4b3"
+  },
+  {
+    "name": "privacy-policy",
+    "path": "/privacy-policy",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\privacy-policy.vue",
+    "chunkName": "pages/privacy-policy",
+    "_name": "_5c97cdfa"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_68cb67c6"
+  },
+  {
+    "name": "shop",
+    "path": "/shop",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\shop\\\\index.vue",
+    "chunkName": "pages/shop/index",
+    "_name": "_2da94649"
+  },
+  {
+    "name": "blog-blog-2",
+    "path": "/blog/blog-2",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\blog\\\\blog-2.vue",
+    "chunkName": "pages/blog/blog-2",
+    "_name": "_1bacd68c"
+  },
+  {
+    "name": "blog-blog-3",
+    "path": "/blog/blog-3",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\blog\\\\blog-3.vue",
+    "chunkName": "pages/blog/blog-3",
+    "_name": "_1bbaee0d"
+  },
+  {
+    "name": "blog-blog-single-2",
+    "path": "/blog/blog-single-2",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\blog\\\\blog-single-2.vue",
+    "chunkName": "pages/blog/blog-single-2",
+    "_name": "_41e08103"
+  },
+  {
+    "name": "cart-cart-2",
+    "path": "/cart/cart-2",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\cart\\\\cart-2.vue",
+    "chunkName": "pages/cart/cart-2",
+    "_name": "_5fbf0a08"
+  },
+  {
+    "name": "cart-empty-cart",
+    "path": "/cart/empty-cart",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\cart\\\\empty-cart.vue",
+    "chunkName": "pages/cart/empty-cart",
+    "_name": "_c1d4843a"
+  },
+  {
+    "name": "contact-us-contact-us-2",
+    "path": "/contact-us/contact-us-2",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\contact-us\\\\contact-us-2.vue",
+    "chunkName": "pages/contact-us/contact-us-2",
+    "_name": "_64e53dc4"
+  },
+  {
+    "name": "my-account-account-details",
+    "path": "/my-account/account-details",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\my-account\\\\account-details.vue",
+    "chunkName": "pages/my-account/account-details",
+    "_name": "_2a126f43"
+  },
+  {
+    "name": "my-account-addresses",
+    "path": "/my-account/addresses",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\my-account\\\\addresses.vue",
+    "chunkName": "pages/my-account/addresses",
+    "_name": "_4c16c303"
+  },
+  {
+    "name": "my-account-checkout-1",
+    "path": "/my-account/checkout-1",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\my-account\\\\checkout-1.vue",
+    "chunkName": "pages/my-account/checkout-1",
+    "_name": "_455ceb4e"
+  },
+  {
+    "name": "my-account-checkout-2",
+    "path": "/my-account/checkout-2",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\my-account\\\\checkout-2.vue",
+    "chunkName": "pages/my-account/checkout-2",
+    "_name": "_4540bc4c"
+  },
+  {
+    "name": "my-account-compare",
+    "path": "/my-account/compare",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\my-account\\\\compare.vue",
+    "chunkName": "pages/my-account/compare",
+    "_name": "_0c7a0906"
+  },
+  {
+    "name": "my-account-downloads",
+    "path": "/my-account/downloads",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\my-account\\\\downloads.vue",
+    "chunkName": "pages/my-account/downloads",
+    "_name": "_5c8ac3cc"
+  },
+  {
+    "name": "my-account-order-tracking",
+    "path": "/my-account/order-tracking",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\my-account\\\\order-tracking.vue",
+    "chunkName": "pages/my-account/order-tracking",
+    "_name": "_9d61ec76"
+  },
+  {
+    "name": "my-account-orders",
+    "path": "/my-account/orders",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\my-account\\\\orders.vue",
+    "chunkName": "pages/my-account/orders",
+    "_name": "_67ac3c58"
+  },
+  {
+    "name": "my-account-wishlist",
+    "path": "/my-account/wishlist",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\my-account\\\\wishlist.vue",
+    "chunkName": "pages/my-account/wishlist",
+    "_name": "_6d136af4"
+  },
+  {
+    "name": "product-product-single-2",
+    "path": "/product/product-single-2",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\product\\\\product-single-2.vue",
+    "chunkName": "pages/product/product-single-2",
+    "_name": "_414ef2a7"
+  },
+  {
+    "name": "shop-shop-2",
+    "path": "/shop/shop-2",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\shop\\\\shop-2.vue",
+    "chunkName": "pages/shop/shop-2",
+    "_name": "_551dff98"
+  },
+  {
+    "name": "shop-shop-3",
+    "path": "/shop/shop-3",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\shop\\\\shop-3.vue",
+    "chunkName": "pages/shop/shop-3",
+    "_name": "_5501d096"
+  },
+  {
+    "name": "shop-shop-4",
+    "path": "/shop/shop-4",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\shop\\\\shop-4.vue",
+    "chunkName": "pages/shop/shop-4",
+    "_name": "_54e5a194"
+  },
+  {
+    "name": "shop-shop-5",
+    "path": "/shop/shop-5",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\shop\\\\shop-5.vue",
+    "chunkName": "pages/shop/shop-5",
+    "_name": "_54c97292"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_7698ecd5"
+  },
+  {
+    "name": "product-slug",
+    "path": "/product/:slug?",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\product\\\\_slug.vue",
+    "chunkName": "pages/product/_slug",
+    "_name": "_62fe991e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\laravel_projects\\\\andshop-vue\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3ca8863f"
+  }
+]
